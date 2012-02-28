@@ -10,6 +10,7 @@ Earlier uploaded songs can be combined to whole albums, which are essential for 
 when listening to several titles of an artist. For rating other peoples work you can either write comments or give a rating (e.g. between 0 and 10).
 
 == What is Rails ?
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
